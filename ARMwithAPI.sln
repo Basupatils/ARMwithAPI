@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARMwithAPI", "ARMwithAPI.csproj", "{0185F493-003A-40D6-BC11-C7FEC2B4324A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ARMwithAPI", "ARMwithAPI.csproj", "{0185F493-003A-40D6-BC11-C7FEC2B4324A}"
 EndProject
 Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "ARMTemplate", "ARMTemplate\ARMTemplate.deployproj", "{ECF1F669-CC69-45BA-ACBC-D5FFD9BEAD42}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProj", "TestProj\TestProj.csproj", "{D0DBE4B3-29F7-42CE-AAF1-C984822CCC64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{9690A22C-4D0A-45EA-BD1A-0B86D5C8BD55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{ECF1F669-CC69-45BA-ACBC-D5FFD9BEAD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECF1F669-CC69-45BA-ACBC-D5FFD9BEAD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECF1F669-CC69-45BA-ACBC-D5FFD9BEAD42}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D0DBE4B3-29F7-42CE-AAF1-C984822CCC64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D0DBE4B3-29F7-42CE-AAF1-C984822CCC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D0DBE4B3-29F7-42CE-AAF1-C984822CCC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D0DBE4B3-29F7-42CE-AAF1-C984822CCC64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9690A22C-4D0A-45EA-BD1A-0B86D5C8BD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9690A22C-4D0A-45EA-BD1A-0B86D5C8BD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9690A22C-4D0A-45EA-BD1A-0B86D5C8BD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9690A22C-4D0A-45EA-BD1A-0B86D5C8BD55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
